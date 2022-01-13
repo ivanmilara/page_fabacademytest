@@ -3,8 +3,8 @@ site_name: Fab Academy Student Name
 site_description: My Fabacademy site
 
 site_author: Your name here
-docs_dir: docs
-site_dir: _site
+docs_dir: _docs
+site_dir: docs
 copyright: Creative Commons Attribution Non Commercial
 theme:
   name: material
